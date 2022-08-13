@@ -1,6 +1,6 @@
 
 
-This is a todo app built with react and type script, what makes this project special is that it is my first project utilizing typeScript. This todo app has the basic CRUD functionalities. 
+This is a todo app built with react and type script, what makes this project special is that it is my first project utilizing typeScript. You are able to enter a task, edit the task, cross off the task, and when you have completed the task you can remove it from the list.  
 
 <img src="./src/assests/Taskify.png" alt="taskify picture" />
 
